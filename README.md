@@ -6,7 +6,7 @@ Clone the Github repository and use condo to install the dependencies
 
 ```
 $ git clone https://github.com/TokyoIndex/dlnd_image_classification.git
-$ cd dlnd_language_translation
+$ cd dlnd_image_classification
 $ conda install conda
 $ jupyter notebook
 ```
